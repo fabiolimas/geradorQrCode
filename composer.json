@@ -1,0 +1,15 @@
+{
+    "name": "ti/qrcode",
+    "description": "qrcode",
+    "authors": [
+        {
+            "name": "Fábio Lima",
+            "email": "fabiolima01@live.com"
+        }
+    ],
+    "require": {
+
+        "php": "^5.6.4",
+		"chillerlan/php-qrcode": "^1.0"
+    }
+}
